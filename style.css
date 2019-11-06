@@ -1,0 +1,60 @@
+/* flint style */
+
+.avatar{
+    width: 70px;
+}
+.container{
+    width: 80%;
+    justify-self: center;
+    box-sizing: border-box;
+}
+.logo1{
+    width: 80%;
+    justify-self: center;
+    box-sizing: border-box;
+}
+.big{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+.title{
+    font-size: 14px;
+}
+.name{
+    font-size: 14px;
+    font-weight: 500;
+}
+p{
+    padding: 10px;
+}
+.footer a{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: list-item;
+    list-style: none;
+    color: gray;
+}
+.footer a:hover{
+  text-decoration: none;
+  color: grey;
+}
+.bigs{
+    display: flex;
+    justify-content: safe;
+    align-items: baseline;
+    
+
+}
+.bigs .box1{
+    margin-right: 10px;
+}
+.all{
+ display: block;
+ align-self: flex-end;
+ 
+}
+.btn-info{
+    background-color: #ff6000 !important;
+    border: none !important;
+}
