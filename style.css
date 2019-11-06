@@ -116,9 +116,27 @@ li {
 }
 
 /* Banji Section END */
-=======
+
+
+
 /* flint style */
 
+footer{
+	background: #39434D !important;
+	/* padding-bottom: 20px; */
+	
+}
+.logoColor{
+	color: #fff;
+}
+
+.pl-10{
+	padding-left: 12rem;
+}
+
+footer a{
+	color: #9FAFC0 !important;
+}
 .avatar{
     width: 70px;
 }
@@ -158,6 +176,7 @@ p{
   text-decoration: none;
   color: grey;
 }
+
 .bigs{
     display: flex;
     justify-content: safe;
