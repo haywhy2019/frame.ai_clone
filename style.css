@@ -1,40 +1,40 @@
 
-.section {
+/* .section {
     Padding: 80px;
-}
-body {
+} */
+/* body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 17px;
     line-height: 1.428571429;
     color: #333333;
     background-color: #fff;
     font-family: Avenia;
-}
+} */
 
-.myList{ 
+/* .myList{ 
     list-style-type: none;
-}
-.myList1{ 
+} */
+/* .myList1{ 
     list-style-type: none;
     padding-top: 5px;
     padding-bottom: 9px;
-}
-.container {
+} */
+/* .container {
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
     margin-top: 80px;
    
-}
-.col-md-5 {
+} */
+/* .col-md-5 {
     position: relative;
     min-height: 1px;
     padding-right: 15px;
     padding-left: 15px;
-}
+} */
 
-#one #two .section {
+/* #one #two .section {
     padding: 80px 0;
     background-color: #f2f4f9;
     height: 80%;
@@ -119,8 +119,8 @@ ol {
     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
     margin-bottom: 30px;
 
-}
-=======
+} */
+
 
 /* Banji section style START */
 
