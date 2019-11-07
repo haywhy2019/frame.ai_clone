@@ -1,3 +1,4 @@
+
 .section {
     Padding: 80px;
 }
@@ -119,3 +120,204 @@ ol {
     margin-bottom: 30px;
 
 }
+=======
+
+/* Banji section style START */
+
+*,
+html {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+#header {
+	min-height: 80px;
+	/* padding: 10px 0; */
+	background: #fff;
+}
+
+#home {
+	background: #fc4a1a; /* fallback for old browsers */
+	background: -webkit-linear-gradient(
+		to left,
+		#f7b733,
+		#fc4a1a
+	); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(
+		to left,
+		#f7b733,
+		#fc4a1a
+	); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	padding-top: 20px;
+}
+
+.sect2 {
+	background: #f2f4f9;
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+}
+
+a {
+	color: #39434d !important;
+}
+
+.btn-start {
+	border: 1px solid #fc4a1a;
+	padding: 7px 26px;
+	background: #fff;
+	color: #fc4a1a !important;
+	font-weight: 500;
+}
+
+li {
+	list-style: none;
+}
+.em {
+	font-weight: bold;
+}
+
+.btn-start2 {
+	background: #fff !important;
+	color: #ff6000 !important;
+}
+
+.first-p{
+    color: #fff;
+    font-weight: 600;
+}
+.button1 {
+	height: 60px;
+	width: 215px;
+	padding: 15px 0;
+	line-height: 27px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+.button2 {
+	font-family: "AvenirNextLTW01-Medium";
+	display: inline-block;
+	vertical-align: middle;
+	border-radius: 4px;
+	min-width: 106px;
+	font-size: 16px;
+	line-height: 20px;
+	padding: 7px 26px;
+	border: 1px solid transparent;
+	background-color: #ff6000;
+	box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+	color: #fff !important;
+	margin: 0;
+	cursor: pointer;
+	text-align: center;
+	white-space: nowrap;
+	user-select: none;
+	text-decoration: none;
+	transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+		border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.firstHeading h1 {
+	color: #fff;
+	font-family: "Avenir Next LT W01 Demi";
+	font-weight: 500;
+	line-height: 50px;
+	font-style: normal;
+	font-size: 44px;
+	margin: 46px 0 20px 0;
+}
+
+.heading-M {
+	padding-top: 40px;
+	padding-bottom: 80px;
+}
+.heading-M2 {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+/* Banji Section END */
+
+
+
+/* flint style */
+
+footer{
+	background: #39434D !important;
+	/* padding-bottom: 20px; */
+	
+}
+.logoColor{
+	color: #fff;
+}
+
+.pl-10{
+	padding-left: 12rem;
+}
+
+footer a{
+	color: #9FAFC0 !important;
+}
+.avatar{
+    width: 70px;
+}
+.container{
+    width: 80%;
+    justify-self: center;
+    box-sizing: border-box;
+}
+.logo1{
+    width: 80%;
+    justify-self: center;
+    box-sizing: border-box;
+}
+.big{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+.title{
+    font-size: 14px;
+}
+.name{
+    font-size: 14px;
+    font-weight: 500;
+}
+p{
+    padding: 10px;
+}
+.footer a{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: list-item;
+    list-style: none;
+    color: gray;
+}
+.footer a:hover{
+  text-decoration: none;
+  color: grey;
+}
+
+.bigs{
+    display: flex;
+    justify-content: safe;
+    align-items: baseline;
+    
+
+}
+.bigs .box1{
+    margin-right: 10px;
+}
+.all{
+ display: block;
+ align-self: flex-end;
+ 
+}
+.btn-info{
+    background-color: #ff6000 !important;
+    border: none !important;
+}
+
+
